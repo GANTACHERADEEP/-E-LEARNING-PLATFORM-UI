@@ -2,7 +2,7 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: 
+**NAME**:  Ganta Cheradeep
 
 **INTERN ID**: 
 
