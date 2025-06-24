@@ -44,5 +44,7 @@ Navigation between pages was implemented with a responsive navbar and breadcrumb
 
 ## output : 
 
+![Image](https://github.com/user-attachments/assets/a3f77d9e-7d3b-4dcd-84e3-bb43fa0679b1)
+
 
 
